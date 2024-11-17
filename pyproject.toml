@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "tooler"
+version = "0.5.0"
+description = ""
+authors = ["atljh <fiodorlukashov@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
